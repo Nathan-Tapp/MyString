@@ -1,0 +1,2 @@
+# MyString
+Testing-Mystring-Objects
